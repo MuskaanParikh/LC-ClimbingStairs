@@ -36,7 +36,7 @@ Python 3.x
 
 typing module (standard from Python 3.5+)
 
-to run the code: python3 ./Climbing-stairs.py
+to run the code: python3 ./Climbing-Stairs.py
 
 ## 📄 License
 This code is based on the Climbing stairs problem from LeetCode and is for learning purposes only.
